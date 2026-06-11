@@ -1,4 +1,9 @@
----
+# ChatApplicationPart-2
+## Student Information
+ST10524800
+Ayabukwa Buli
+PROG5121
+------
 The three classes that were done were Main.java; Message.jav and MessageTest.java 
 the project main objective of these classes is to allow users to be able to send messages,Show recently sent messages and Quit. 
 The three classes allow the users to use the chatapp.
